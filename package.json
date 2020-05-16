@@ -1,0 +1,26 @@
+{
+  "name": "ACNHTools",
+  "version": "1.0.0",
+  "description": "a tool for viewing animal crossing items",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephBadua/MWStats.git"
+  },
+  "keywords": [],
+  "author": "Joseph Badua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephBadua/MWStats/issues"
+  },
+  "homepage": "https://github.com/JosephBadua/MWStats#readme",
+  "dependencies": {
+    "call-of-duty-api": "^1.1.14",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4"
+  }
+}

@@ -1,0 +1,2364 @@
+﻿{
+    "Construction": [
+        {
+            "Name": "brick bridge",
+            "Image": "",
+            "Buy": "198000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeBricks",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Rvkrg9tcubTMakcBS"
+        },
+        {
+            "Name": "iron bridge",
+            "Image": "",
+            "Buy": "228000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeIron",
+            "Version": "1.0.0",
+            "Unique Entry ID": "RmQ6iiKkFf3Sy4iSQ"
+        },
+        {
+            "Name": "log bridge",
+            "Image": "",
+            "Buy": "98000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeLog",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Px55sTfjKSbbMtjAK"
+        },
+        {
+            "Name": "red zen bridge",
+            "Image": "",
+            "Buy": "228000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeRed",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jTziEHXkeYaugKDQQ"
+        },
+        {
+            "Name": "stone bridge",
+            "Image": "",
+            "Buy": "168000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeStone",
+            "Version": "1.0.0",
+            "Unique Entry ID": "JmrwC2tRRCCgbZnrp"
+        },
+        {
+            "Name": "suspension bridge",
+            "Image": "",
+            "Buy": "129800",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeSuspension",
+            "Version": "1.0.0",
+            "Unique Entry ID": "q52JebMTHDqHJKBba"
+        },
+        {
+            "Name": "wooden bridge",
+            "Image": "",
+            "Buy": "168000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeWood",
+            "Version": "1.0.0",
+            "Unique Entry ID": "7oZ7FMrJEpBLZzsmw"
+        },
+        {
+            "Name": "zen bridge",
+            "Image": "",
+            "Buy": "228000",
+            "Category": "Bridge",
+            "Source": "Resident Services Upgrade",
+            "Filename": "BridgeJapanese",
+            "Version": "1.0.0",
+            "Unique Entry ID": "TbKbHzJM8j8ezmAEF"
+        },
+        {
+            "Name": "basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "HrAsZSpm2pRj2u8ad"
+        },
+        {
+            "Name": "beige basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "uF4YeCTGBx4Tawcp8"
+        },
+        {
+            "Name": "beige simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jQFLgioHYBRbRkBYK"
+        },
+        {
+            "Name": "beige windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "oMqf22Pf8fZzeoJdY"
+        },
+        {
+            "Name": "beige wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "N5LASg9qjhgexBMe7"
+        },
+        {
+            "Name": "black common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "6mmdmWbK5ZRpbCsWc"
+        },
+        {
+            "Name": "black fancy door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCarvingBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "3ZahH8gvtHGdkEM68"
+        },
+        {
+            "Name": "black imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "qT9ghD7YkZpMDgBDf"
+        },
+        {
+            "Name": "black latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Kzu4WsZwmSWzLdMC6"
+        },
+        {
+            "Name": "black rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "TKDhdqyJBdrz8yQt6"
+        },
+        {
+            "Name": "black vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Z4efmoeAjzYLhTsKJ"
+        },
+        {
+            "Name": "black zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "AxrkW9SNKqmh9kX4S"
+        },
+        {
+            "Name": "blue basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "BxqZmtEty82NDo8J3"
+        },
+        {
+            "Name": "blue common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "hfWfx4mxev3qjp2zH"
+        },
+        {
+            "Name": "blue fancy door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCarvingER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "fm6MupiuPAK6HPNNj"
+        },
+        {
+            "Name": "blue iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "5tgy5p3AE38NBeG9B"
+        },
+        {
+            "Name": "blue latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "JwdJLi5HHZe24DmkF"
+        },
+        {
+            "Name": "blue metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "YB3NZt9RRYJroWRcn"
+        },
+        {
+            "Name": "blue rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "8k4sCwWWqugmTYuw6"
+        },
+        {
+            "Name": "blue simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "cN2eTBiAPt2Bv8GTK"
+        },
+        {
+            "Name": "blue vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "AJB8xQLjaJR2WrHBv"
+        },
+        {
+            "Name": "blue windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "i5JLZk2vdr5jZ9nBC"
+        },
+        {
+            "Name": "blue wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "okXxYSYZ8o2vceKQG"
+        },
+        {
+            "Name": "brown imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "SN5ik2H7HfGLuG9EN"
+        },
+        {
+            "Name": "brown latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "a4Mft9ihDSpo4jusc"
+        },
+        {
+            "Name": "brown metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "8eztTyD69pNsq7Eee"
+        },
+        {
+            "Name": "brown zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "3bWWrFPG7N5NcAKbS"
+        },
+        {
+            "Name": "burgundy basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "vuSF9u2vtgf95NREh"
+        },
+        {
+            "Name": "common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "8Gx8LKMb7ipbF9qKa"
+        },
+        {
+            "Name": "cyan vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "CTyPWnQDRGqMcDEyf"
+        },
+        {
+            "Name": "dark-brown iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "CQFAjS99WqxTu4QDJ"
+        },
+        {
+            "Name": "deep-green simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Gyibc6G9u5Zv4fMdJ"
+        },
+        {
+            "Name": "gray common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "mEBW6Y6gLFpBpibwA"
+        },
+        {
+            "Name": "gray iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "27cPAfi2DYBEzzgto"
+        },
+        {
+            "Name": "gray iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "uzLEvMD46GzBZQ3mN"
+        },
+        {
+            "Name": "gray latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ZCfMjY9ED5jW87aZY"
+        },
+        {
+            "Name": "gray simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "QjS2nzSqHCLCcLGKQ"
+        },
+        {
+            "Name": "gray windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Y7W4HKFy49BLvabBD"
+        },
+        {
+            "Name": "gray wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "C2LhRZFynjh6x5gQB"
+        },
+        {
+            "Name": "green basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jDYnxjeL9zxWFsYM3"
+        },
+        {
+            "Name": "green common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "3xcS4XeYXbi6A4JJc"
+        },
+        {
+            "Name": "green imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "h59gk2epKc9ALPoF9"
+        },
+        {
+            "Name": "green iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "CH2gZGRicug5TB5nF"
+        },
+        {
+            "Name": "green iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "fNwKPm8gu5pnoNZ2H"
+        },
+        {
+            "Name": "green metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "gveHmLcPh9uNLMFB8"
+        },
+        {
+            "Name": "green rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "YyyhicaCZuYCAd4hm"
+        },
+        {
+            "Name": "green vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "DAwzGNJimCfi6XuPY"
+        },
+        {
+            "Name": "green windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "CHTZZvpsuYP2ZvEtm"
+        },
+        {
+            "Name": "green wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "qj2PXQwBkjoDPMSDc"
+        },
+        {
+            "Name": "green-apple basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "mH3kwkiNAW9Tgg5XH"
+        },
+        {
+            "Name": "green-apple common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "oe58QsaRvnF9dQ9Eg"
+        },
+        {
+            "Name": "imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "BbeW2wNrRMq4PkQB5"
+        },
+        {
+            "Name": "iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "yE4x5zcn95mcNNf2f"
+        },
+        {
+            "Name": "iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Cgd6XZxLfYLbuRqoC"
+        },
+        {
+            "Name": "lacquered zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "soxZojTeCikxb9q53"
+        },
+        {
+            "Name": "latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jexi2bbNCwn2j3JvC"
+        },
+        {
+            "Name": "light-green rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "n5cEgH77z99n3rT8i"
+        },
+        {
+            "Name": "maple iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "FW8NZXxWLT4hY6Nj3"
+        },
+        {
+            "Name": "maple rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "cuDwoeXKD2jdQEPvQ"
+        },
+        {
+            "Name": "maple vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "uKkrQ5yBYWQMmerB7"
+        },
+        {
+            "Name": "maple windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "bTb3Quno8Hhs7ASK2"
+        },
+        {
+            "Name": "maple wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "zvWtASTxgTYBunTDz"
+        },
+        {
+            "Name": "metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "EivvfJTS98tFNbuno"
+        },
+        {
+            "Name": "pale-blue basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "LnLiK3nvaaGqMSJbo"
+        },
+        {
+            "Name": "pale-blue iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "LGernbHCg8R4Kcs8f"
+        },
+        {
+            "Name": "pale-purple rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "HEczAiQ4dHwB5zh5i"
+        },
+        {
+            "Name": "pink basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Xby3xZhQd3dMb4Coe"
+        },
+        {
+            "Name": "pink fancy door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCarvingDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "2jbKjqmXXQddSvH26"
+        },
+        {
+            "Name": "pink iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "BLseEGcXhw9dPreLx"
+        },
+        {
+            "Name": "pink iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "sjAoF3vsRF5J8jLdq"
+        },
+        {
+            "Name": "pink metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "TB89rf3ccaKip4QRz"
+        },
+        {
+            "Name": "pink rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "GANZwLknoRyyegbLM"
+        },
+        {
+            "Name": "pink simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "qvNBxg3CEWvEnoNpZ"
+        },
+        {
+            "Name": "pink windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "svRR2C9PSLt5ef3Su"
+        },
+        {
+            "Name": "pink wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "gPykmDtFtSdxotvrk"
+        },
+        {
+            "Name": "purple common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "XBquzTWPzAnHcKYBj"
+        },
+        {
+            "Name": "purple iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Q4GLiP3Kmurrk2WSB"
+        },
+        {
+            "Name": "purple metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "B6NfDDoKJXSTX6nEZ"
+        },
+        {
+            "Name": "purple simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "dmTdoj8NzL2jSKZHu"
+        },
+        {
+            "Name": "purple vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "JHMuJ2pSXBFsCGThM"
+        },
+        {
+            "Name": "purple windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "kiK57D48BgFz2LdAh"
+        },
+        {
+            "Name": "purple wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardJR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "oNx9giXYQZLfuCYq5"
+        },
+        {
+            "Name": "red common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "WmuaHC559AALWH2Bb"
+        },
+        {
+            "Name": "red fancy door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCarvingCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "us8rFY2TSFXCx72kH"
+        },
+        {
+            "Name": "red imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "NtxTaTeTrzghsGS2W"
+        },
+        {
+            "Name": "red iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Bp9ysH2C4zeiScQXP"
+        },
+        {
+            "Name": "red iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillIR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "giywRE5qEmQZC6GAN"
+        },
+        {
+            "Name": "red latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Nnbfndanco3rvQgWf"
+        },
+        {
+            "Name": "red metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "XvgfNPwfYGffgE24X"
+        },
+        {
+            "Name": "red rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "RddBzpZ8QEcLWD4Gv"
+        },
+        {
+            "Name": "red vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jtHKujXtSxTwgmgiY"
+        },
+        {
+            "Name": "red windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Z4oGMDMqpFBdfYXsZ"
+        },
+        {
+            "Name": "red wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "h4LK4FrT733y64FZz"
+        },
+        {
+            "Name": "red zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "tdPuvQyRrRFiBEv7z"
+        },
+        {
+            "Name": "red-green imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "2mrsS49vJNZdWDQeD"
+        },
+        {
+            "Name": "rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "mbsrSkG43TP7tA6e5"
+        },
+        {
+            "Name": "vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "aqhHtKKvCQQpb834t"
+        },
+        {
+            "Name": "walnut latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "xtvqjdafPWY4DF4ww"
+        },
+        {
+            "Name": "white basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "rrazQ4rMyTqvC3G3Y"
+        },
+        {
+            "Name": "white common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "cFZFak2hPc3jBrpv8"
+        },
+        {
+            "Name": "white fancy door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCarvingAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "r6k9ATzzAKaWMNJnQ"
+        },
+        {
+            "Name": "white imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "bthYBfAjTxo7F5dNi"
+        },
+        {
+            "Name": "white iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Zi4ndrFTFsEqhQPw9"
+        },
+        {
+            "Name": "white iron grill door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronGrillFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "bz47mYutYXduChB3P"
+        },
+        {
+            "Name": "white latticework door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorLatticeGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ndjhLSHZXG4TrmXNS"
+        },
+        {
+            "Name": "white metal-accent door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronpartsHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "yDBA2qT5sGQAzt7eB"
+        },
+        {
+            "Name": "white rustic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimplicityBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Mu7FQYgoRajRuL5BD"
+        },
+        {
+            "Name": "white simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "q4CQF3zCDhorZ7fAc"
+        },
+        {
+            "Name": "white vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "CxFPdgKzKg2ifRx62"
+        },
+        {
+            "Name": "white windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ZovDjWHe8YSZZKinn"
+        },
+        {
+            "Name": "white wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardHR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "h2ja68uKd7TxdEwQE"
+        },
+        {
+            "Name": "white zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseGR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "wY7gy8YD2Y8ojnDnm"
+        },
+        {
+            "Name": "windowed door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorWindowAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "28wnpfEyGZCvdDsmc"
+        },
+        {
+            "Name": "wooden door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorStandardAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "4ovKGY9ZoiujvqkS8"
+        },
+        {
+            "Name": "yellow basic door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCercleWindowCR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "yoMGH8LhL7mFWZiPD"
+        },
+        {
+            "Name": "yellow common door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorReliefER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "5ZKFC4ePpoYDqqJSu"
+        },
+        {
+            "Name": "yellow fancy door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorCarvingFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "iNTxu4FaB6TC9pjni"
+        },
+        {
+            "Name": "yellow imperial door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorChineseDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "dBGXJ8LnHwDZciTRS"
+        },
+        {
+            "Name": "yellow iron door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorIronDR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "wELe85t5gE9e5fZ7H"
+        },
+        {
+            "Name": "yellow simple door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorSimpleFR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "t8gHx6QjK9tFMmMna"
+        },
+        {
+            "Name": "yellow vertical-panes door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorVerticalWindowER",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Aszgp3pAbCC75LNHd"
+        },
+        {
+            "Name": "yellow zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseBR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "yHJcPMRBWKZofvC4H"
+        },
+        {
+            "Name": "zen door",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Door",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseDoorJapaneseAR",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jGJNCRi6kcXXTD67g"
+        },
+        {
+            "Name": "blue steel staircase",
+            "Image": "",
+            "Buy": "228000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeIronStairBlue",
+            "Version": "1.0.0",
+            "Unique Entry ID": "wEC52Lc5cf8TcamMB"
+        },
+        {
+            "Name": "blue-plank ramp",
+            "Image": "",
+            "Buy": "128000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeWoodBlue",
+            "Version": "1.0.0",
+            "Unique Entry ID": "gHnYrhHS9A7MrPdpr"
+        },
+        {
+            "Name": "brick staircase",
+            "Image": "",
+            "Buy": "198000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeBrickStair",
+            "Version": "1.0.0",
+            "Unique Entry ID": "A8AfTzxqpvzfcMeC5"
+        },
+        {
+            "Name": "log staircase",
+            "Image": "",
+            "Buy": "168000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeWoodStair",
+            "Version": "1.0.0",
+            "Unique Entry ID": "wk6oQREwMmRAmkTWJ"
+        },
+        {
+            "Name": "natural ramp",
+            "Image": "",
+            "Buy": "98000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeNatural",
+            "Version": "1.0.0",
+            "Unique Entry ID": "m7jAPxsGCRgSWo6Ng"
+        },
+        {
+            "Name": "red steel staircase",
+            "Image": "",
+            "Buy": "228000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeIronStair",
+            "Version": "1.0.0",
+            "Unique Entry ID": "2nygbmutbmBfuzEXp"
+        },
+        {
+            "Name": "stone staircase",
+            "Image": "",
+            "Buy": "168000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeStoneStair",
+            "Version": "1.0.0",
+            "Unique Entry ID": "4zszj8KsBNe2XgeGq"
+        },
+        {
+            "Name": "white-plank ramp",
+            "Image": "",
+            "Buy": "128000",
+            "Category": "Incline",
+            "Source": "Resident Services Upgrade",
+            "Filename": "SlopeWood",
+            "Version": "1.0.0",
+            "Unique Entry ID": "aR8pTDNtanxDQt7MY"
+        },
+        {
+            "Name": "black large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargeBlack",
+            "Version": "1.0.0",
+            "Unique Entry ID": "MfwnWmtJuJDAvc2Lz"
+        },
+        {
+            "Name": "black ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardBlack",
+            "Version": "1.0.0",
+            "Unique Entry ID": "mrnKiTGF6ra4B8X2T"
+        },
+        {
+            "Name": "black square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquareBlack",
+            "Version": "1.0.0",
+            "Unique Entry ID": "EePwSJwYCpQZacFqi"
+        },
+        {
+            "Name": "blue large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargeBlue",
+            "Version": "1.0.0",
+            "Unique Entry ID": "PXyHoT3WdZxgZNngW"
+        },
+        {
+            "Name": "blue ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardBlue",
+            "Version": "1.0.0",
+            "Unique Entry ID": "RzqDEHhw3HSGjpavY"
+        },
+        {
+            "Name": "blue square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquareBlue",
+            "Version": "1.0.0",
+            "Unique Entry ID": "cP7bYmszxmrmW2ygL"
+        },
+        {
+            "Name": "blue wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodBlue",
+            "Version": "1.0.0",
+            "Unique Entry ID": "hc333N34upcNjSabw"
+        },
+        {
+            "Name": "chic wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodDark",
+            "Version": "1.0.0",
+            "Unique Entry ID": "f2YBipw25G8BAxwSt"
+        },
+        {
+            "Name": "green large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargeGreen",
+            "Version": "1.0.0",
+            "Unique Entry ID": "MkQ6G3TQ7YqhQToAi"
+        },
+        {
+            "Name": "green ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardGreen",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ujFMEsLrnERfkwfP9"
+        },
+        {
+            "Name": "green square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquareGreen",
+            "Version": "1.0.0",
+            "Unique Entry ID": "xuTEi6Do6tN46d3q5"
+        },
+        {
+            "Name": "green wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodGreen",
+            "Version": "1.0.0",
+            "Unique Entry ID": "6bxdrutijtpzKv39F"
+        },
+        {
+            "Name": "large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLarge",
+            "Version": "1.0.0",
+            "Unique Entry ID": "9mei7SoYtX9WhJqBx"
+        },
+        {
+            "Name": "ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandard",
+            "Version": "1.0.0",
+            "Unique Entry ID": "WiXx9pYfimxQTSAuF"
+        },
+        {
+            "Name": "pink large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargePink",
+            "Version": "1.0.0",
+            "Unique Entry ID": "442cvvb6XZ2ykmMy9"
+        },
+        {
+            "Name": "pink ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardPink",
+            "Version": "1.0.0",
+            "Unique Entry ID": "TimXNFMGAu2gEdSHg"
+        },
+        {
+            "Name": "pink square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquarePink",
+            "Version": "1.0.0",
+            "Unique Entry ID": "wM9frkMp4Bw3j8siW"
+        },
+        {
+            "Name": "pink wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodPink",
+            "Version": "1.0.0",
+            "Unique Entry ID": "rFbXYtTBoJmXaHs8o"
+        },
+        {
+            "Name": "red large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargeRed",
+            "Version": "1.0.0",
+            "Unique Entry ID": "dd7zAjPBuZzeepDg4"
+        },
+        {
+            "Name": "red ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardRed",
+            "Version": "1.0.0",
+            "Unique Entry ID": "TBRuBdRZM6YmQPNHp"
+        },
+        {
+            "Name": "red square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquareRed",
+            "Version": "1.0.0",
+            "Unique Entry ID": "hnC7jsEoSKbk5RsEy"
+        },
+        {
+            "Name": "red wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodRed",
+            "Version": "1.0.0",
+            "Unique Entry ID": "wuakRPNugQ72t832X"
+        },
+        {
+            "Name": "rustic mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "Tent",
+            "Filename": "FtrPostSimple",
+            "Version": "1.0.0",
+            "Unique Entry ID": "vhd8waS64LR47ty8Q"
+        },
+        {
+            "Name": "square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquare",
+            "Version": "1.0.0",
+            "Unique Entry ID": "BKJKu7xjhMajA2aFy"
+        },
+        {
+            "Name": "white large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargeWhite",
+            "Version": "1.0.0",
+            "Unique Entry ID": "uEXJbNeCvpXGjCokH"
+        },
+        {
+            "Name": "white ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardWhite",
+            "Version": "1.0.0",
+            "Unique Entry ID": "QYJ4Xh4GSSi4iYzMb"
+        },
+        {
+            "Name": "white square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquareWhite",
+            "Version": "1.0.0",
+            "Unique Entry ID": "62DZnrMMYjrk5jbS5"
+        },
+        {
+            "Name": "white wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodWhite",
+            "Version": "1.0.0",
+            "Unique Entry ID": "hs8QMbn7caa6z85ha"
+        },
+        {
+            "Name": "wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWood",
+            "Version": "1.0.0",
+            "Unique Entry ID": "iqx2M7qtMQjSr73dq"
+        },
+        {
+            "Name": "yellow large mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostLargeYellow",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Ed6P9B4Y7y6TA99YS"
+        },
+        {
+            "Name": "yellow ordinary mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostStandardYellow",
+            "Version": "1.0.0",
+            "Unique Entry ID": "egLw54yP3orauEyFd"
+        },
+        {
+            "Name": "yellow square mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostSquareYellow",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Me97eMZ28yf3j8S8v"
+        },
+        {
+            "Name": "yellow wooden mailbox",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Mailbox",
+            "Source": "3rd House Upgrade (Left Room)",
+            "Filename": "FtrPostWoodYellow",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ZDcPaCBz24tNYiGe4"
+        },
+        {
+            "Name": "aqua tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Qnx2RexRkQSfFnLuB"
+        },
+        {
+            "Name": "beige curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "jX9sAaudmHztd6WoQ"
+        },
+        {
+            "Name": "beige stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "rJ4yqFWLmk6ykB5Et"
+        },
+        {
+            "Name": "black curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "BdGehD5vw6WxG8efX"
+        },
+        {
+            "Name": "black stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "hyshRxYSTue2YG2zE"
+        },
+        {
+            "Name": "black thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "53msS63AkP5L46Bq7"
+        },
+        {
+            "Name": "black tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "aEXiJy3tnSJWNTBkv"
+        },
+        {
+            "Name": "blue curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "mprPiQG9puuaCguod"
+        },
+        {
+            "Name": "blue stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "2q8sqokbgGi3mebNb"
+        },
+        {
+            "Name": "blue tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "B7gS5WW3ksnrfNeXK"
+        },
+        {
+            "Name": "brown curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "zKQZJpWoGzgw7orRW"
+        },
+        {
+            "Name": "brown stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "mapwfPNGnhg62uQkt"
+        },
+        {
+            "Name": "brown thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "N9gATxvMvWX5HLEhS"
+        },
+        {
+            "Name": "deep-green thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "vc6xgYJWGgA9cTkB7"
+        },
+        {
+            "Name": "fresh-grass thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Z5NELbfAsKrPcwy5L"
+        },
+        {
+            "Name": "golden-brown thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "roxKGs7uRQw2pw8to"
+        },
+        {
+            "Name": "gray thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "PpodDcgiEgAJiDiSS"
+        },
+        {
+            "Name": "green curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "zH9xBNwrWkv4JfBH3"
+        },
+        {
+            "Name": "green stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "T85hEMqZDuz32hnS2"
+        },
+        {
+            "Name": "green tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "pEWWGqpXPdLucubvS"
+        },
+        {
+            "Name": "grey stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ab33Skrb5b7oeha7y"
+        },
+        {
+            "Name": "orange curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "yfLcN39wQrmNt8WHH"
+        },
+        {
+            "Name": "orange stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ifhZHe9jHujeiSgAu"
+        },
+        {
+            "Name": "orange thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "KehTqxnW4g25qgMzj"
+        },
+        {
+            "Name": "pink curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Pcg6fSeBJ5C92kLPs"
+        },
+        {
+            "Name": "pink tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ve7xChDBdMDgb6nTS"
+        },
+        {
+            "Name": "purple tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "3dBXpZsj6tD2dBzwj"
+        },
+        {
+            "Name": "red stone roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04StoneD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "zPrrQagfzwkhtnAZT"
+        },
+        {
+            "Name": "red tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "uifwByFWdDXnTJ4vp"
+        },
+        {
+            "Name": "white thatch roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04ThatchedF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "CGCfToQFCeeeMkRWc"
+        },
+        {
+            "Name": "yellow curved shingles",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "4th House Upgrade (Right Room)",
+            "Filename": "HouseRoofPA04WesterntileC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "n5Gc39GsgiLg4ofb2"
+        },
+        {
+            "Name": "yellow tile roof",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Roofing",
+            "Source": "Initial House",
+            "Filename": "HouseRoofPA04StandardC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "2aQvQYwCsSQyRGyvF"
+        },
+        {
+            "Name": "beige stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "qbKmPn2exhSsqLCw5"
+        },
+        {
+            "Name": "black chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "kYAfpnwSRtZfZs4SG"
+        },
+        {
+            "Name": "black common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "di7Pmwx9aDN4v4Xfc"
+        },
+        {
+            "Name": "black stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "gJeYNSQ4cBQuMiJXS"
+        },
+        {
+            "Name": "blue cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "eTg7RcPdjkGPBeWL4"
+        },
+        {
+            "Name": "blue stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "g6d8pc3feddvfd3wm"
+        },
+        {
+            "Name": "blue-trim common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "9gtBjJE4tYb6wQczz"
+        },
+        {
+            "Name": "brown chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "xAmRhhZacLmi3ySCm"
+        },
+        {
+            "Name": "brown cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "NL3LEQdCu2TtcE9eW"
+        },
+        {
+            "Name": "chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "RBTZCSQfgD2vQH3Ze"
+        },
+        {
+            "Name": "chic cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Lms2QszBWsfaCCxGf"
+        },
+        {
+            "Name": "cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ZH4zSM5t8CkRN6WL7"
+        },
+        {
+            "Name": "common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "tvSkijt9ictdZ5haB"
+        },
+        {
+            "Name": "cream chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "KAwpDuD4BQAodaghb"
+        },
+        {
+            "Name": "gray cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneH",
+            "Version": "1.0.0",
+            "Unique Entry ID": "8GYy5WLx9jCpap6uY"
+        },
+        {
+            "Name": "gray stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "niRaBvHzn59TEuTtu"
+        },
+        {
+            "Name": "gray-trim common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "JfXXtqNSk5D2jYMYf"
+        },
+        {
+            "Name": "green cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Jiy9DpvuhLX6skBrR"
+        },
+        {
+            "Name": "light-blue chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "9SCJMuao7JJBS3iry"
+        },
+        {
+            "Name": "orange chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ug4QTydifE3YXJqHR"
+        },
+        {
+            "Name": "orange cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "Xs4kXRbnMnnkzzdGm"
+        },
+        {
+            "Name": "pink common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ceKL4XwfZzkGoYpg9"
+        },
+        {
+            "Name": "pink stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "xmPeJk2bKkAWYtF64"
+        },
+        {
+            "Name": "red chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeC",
+            "Version": "1.0.0",
+            "Unique Entry ID": "cA9eF8iCxf8nJhZMy"
+        },
+        {
+            "Name": "red cobblestone exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StoneD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "xXRQfdAGyLJCXSbY6"
+        },
+        {
+            "Name": "red common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardG",
+            "Version": "1.0.0",
+            "Unique Entry ID": "cwEx7XyAwefNQJ8Rr"
+        },
+        {
+            "Name": "red stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoD",
+            "Version": "1.0.0",
+            "Unique Entry ID": "c27kqMPWnha8RjEki"
+        },
+        {
+            "Name": "red-trim common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardB",
+            "Version": "1.0.0",
+            "Unique Entry ID": "ckT8w7sPNqY2aRMcH"
+        },
+        {
+            "Name": "white stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoA",
+            "Version": "1.0.0",
+            "Unique Entry ID": "QkWc3tQAiWrNhewAw"
+        },
+        {
+            "Name": "yellow chalet exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04WoodframeE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "t7eP9mfhqemhFXnBh"
+        },
+        {
+            "Name": "yellow common exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StandardE",
+            "Version": "1.0.0",
+            "Unique Entry ID": "BGfRq5YPPAt93qsms"
+        },
+        {
+            "Name": "yellow stucco exterior",
+            "Image": "",
+            "Buy": "5000",
+            "Category": "Siding",
+            "Source": "5th House Upgrade (2nd Floor)",
+            "Filename": "HouseWallPA04StuccoF",
+            "Version": "1.0.0",
+            "Unique Entry ID": "78XQwM8DMwK8YsJig"
+        }
+    ]
+}
